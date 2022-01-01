@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Move-em-Movies/static/css/main.8220b862.chunk.css",
+    "main.js": "/Move-em-Movies/static/js/main.0b28de25.chunk.js",
+    "main.js.map": "/Move-em-Movies/static/js/main.0b28de25.chunk.js.map",
+    "runtime-main.js": "/Move-em-Movies/static/js/runtime-main.1bd1cf1d.js",
+    "runtime-main.js.map": "/Move-em-Movies/static/js/runtime-main.1bd1cf1d.js.map",
+    "static/js/2.a51dc943.chunk.js": "/Move-em-Movies/static/js/2.a51dc943.chunk.js",
+    "static/js/2.a51dc943.chunk.js.map": "/Move-em-Movies/static/js/2.a51dc943.chunk.js.map",
+    "static/js/3.a73e3615.chunk.js": "/Move-em-Movies/static/js/3.a73e3615.chunk.js",
+    "static/js/3.a73e3615.chunk.js.map": "/Move-em-Movies/static/js/3.a73e3615.chunk.js.map",
+    "index.html": "/Move-em-Movies/index.html",
+    "static/css/main.8220b862.chunk.css.map": "/Move-em-Movies/static/css/main.8220b862.chunk.css.map",
+    "static/js/2.a51dc943.chunk.js.LICENSE.txt": "/Move-em-Movies/static/js/2.a51dc943.chunk.js.LICENSE.txt",
+    "static/media/dog_power.26389664.jpg": "/Move-em-Movies/static/media/dog_power.26389664.jpg",
+    "static/media/dont_look_up.bcaf43e5.jpg": "/Move-em-Movies/static/media/dont_look_up.bcaf43e5.jpg",
+    "static/media/kings_man.314d0be3.jpg": "/Move-em-Movies/static/media/kings_man.314d0be3.jpg",
+    "static/media/matrix.20ef80bc.jpg": "/Move-em-Movies/static/media/matrix.20ef80bc.jpg",
+    "static/media/movie_poster.dab03a71.jpg": "/Move-em-Movies/static/media/movie_poster.dab03a71.jpg",
+    "static/media/movie_poster1.62820200.jpg": "/Move-em-Movies/static/media/movie_poster1.62820200.jpg",
+    "static/media/movie_poster2.3f98b16b.jpg": "/Move-em-Movies/static/media/movie_poster2.3f98b16b.jpg",
+    "static/media/spider-man.5917ebc1.jpg": "/Move-em-Movies/static/media/spider-man.5917ebc1.jpg",
+    "static/media/witcher.df9f6923.jpg": "/Move-em-Movies/static/media/witcher.df9f6923.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bd1cf1d.js",
+    "static/js/2.a51dc943.chunk.js",
+    "static/css/main.8220b862.chunk.css",
+    "static/js/main.0b28de25.chunk.js"
+  ]
+}
